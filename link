@@ -1,8 +1,0 @@
-[core]
-        repositoryformatversion = 0
-        filemode = true
-        hooksPath = hooks
-        logallrefupdates = true
-[remote "origin"]
-        url = http://185.163.156.150:8001/git/test5.git
-        fetch = +refs/heads/*:refs/remotes/origin/*
