@@ -1,0 +1,8 @@
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        hooksPath = hooks
+        logallrefupdates = true
+[remote "origin"]
+        url = http://russtone.io:8000/git/test5.git
+        fetch = +refs/heads/*:refs/remotes/origin/*
