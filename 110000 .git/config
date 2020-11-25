@@ -1,0 +1,8 @@
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        hooksPath = hooks
+        logallrefupdates = true
+[remote "origin"]
+        url = https://github.com/dR3m/test123
+        fetch = +refs/heads/*:refs/remotes/origin/*
